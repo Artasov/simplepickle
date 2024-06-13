@@ -1,13 +1,14 @@
 # Introduction to `simplepickle`
 
-`simplepickle` это простой пайтон пакет позволяющий
-удобно получать загружать файлы dump от pickle.
+`simplepickle` is a simple Python package that allows
+It's convenient to receive and download dump files from pickle.
 
 ## Dependencies
 
 * Python 3.11 or higher
 
 ## Quick Start
+
 * #### Install `simplepickle`
   ```sh
   pip install simplepickle
